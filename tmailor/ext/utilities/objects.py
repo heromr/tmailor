@@ -3,8 +3,8 @@ class DomainList:
         self.json = data
 
         domains = data.get("domains", [])
-        self.names = [domain.get("name") for domain in domains]
-        self.types = [domain.get("type") for domain in domains]
+        self.name = [domain.get("name") for domain in domains]
+        self.type = [domain.get("type") for domain in domains]
         self.forward_available = [domain.get("forward_available") for domain in domains]
         self.forward_max_seconds = [domain.get("forward_max_seconds") for domain in domains]
 
