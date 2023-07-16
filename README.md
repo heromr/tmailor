@@ -3,8 +3,6 @@
   
   <p>
     <a href="https://github.com/heromr/tmailor/commits/main"><img src="https://img.shields.io/github/last-commit/heromr/tmailor?label=last%20updated&color=blueviolet" alt="GitHub last commit"></a>
-    <a href="https://pypi.org/project/tmailor/"><img src="https://img.shields.io/pypi/dw/tmailor?color=blueviolet" alt="PyPI - Downloads"></a>
-  </p>
 
   <p style="font-size: 1.2em; color: #424242;">A temporary email address that provides email addresses without registration, used to receive incoming emails without disclosing your actual email.</p>
 
