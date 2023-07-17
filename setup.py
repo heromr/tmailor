@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 with open("README.md", "r") as f:
     long_description = f.read()
 
-VERSION = "0.0.10"
+VERSION = "0.0.12"
 DESCRIPTION = "A temporary email address is: a library that provides email addresses without registration, used to receive incoming emails without disclosing your actual email."
 
 setup(
